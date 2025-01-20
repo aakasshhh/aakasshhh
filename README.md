@@ -20,7 +20,7 @@
 - 💬 **Ask Me About:** MERN, Data Structures, Full Stack.
 - 🎯 **Goal:** To become a well-rounded Software Engineer and contribute to impactful projects.
 - 📫 **How to reach me:** aakashjainonline18@gmail.com
-- 📄 **Resume:** [Click here](https://github.com/aakasshhh/Resume.pdf)
+- 📄 **Resume:** [Click here](https://github.com/aakasshhh/blob/main/Resume.pdf)
 
 ---
 

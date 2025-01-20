@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-- 🌱 **Currently Learning:** Advanced Algorithms, MERN Stack, and AI Development.
+- 🌱 **Currently Learning:** Advanced Algorithms, Cloud Computing, and AI Development.
 - 💬 **Ask Me About:** MERN, Data Structures, Full Stack.
 - 🎯 **Goal:** To become a well-rounded Software Engineer and contribute to impactful projects.
 - 📫 **How to reach me:** aakashjainonline18@gmail.com

@@ -34,13 +34,67 @@ I specialise in **MERN Stack development** — building responsive frontends wit
 ---
 
 ### 🚀 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [💸 ExpensEase](https://github.com/aakasshhh/ExpensEase) | A full-featured expense tracker to manage and visualise personal finances | MERN Stack |
-| [📱 Social Media Website](https://github.com/aakasshhh/Social-Media-Website) | A user-friendly social platform with core social media features | React.js |
-| [🎵 LyricsGo](https://github.com/aakasshhh/LyricsGo) | A clean web app to help users find song lyrics instantly | HTML · CSS · JS |
-
+ 
+ 
+#### 🤝 [Collabify](https://github.com/aakasshhh/Collabify) — Team Collaboration Platform
+ 
+> A modern all-in-one collaboration platform for teams — combining real-time chat, task management, project tracking, and scheduling in a single clean interface.
+ 
+**✨ Highlights:**
+- 💬 Real-time messaging with channels & threads
+- ✅ Task creation, assignment, deadlines & progress tracking
+- 📅 Built-in calendar & scheduling tools
+- 🔐 JWT-based secure authentication
+- 💳 Razorpay credit system integration
+- 🌙 Polished dark-theme responsive UI
+![Tech](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tech](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tech](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Tech](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Tech](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Tech](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
+ 
+---
+ 
+#### 🎨 [Imagify](https://github.com/aakasshhh/Imagify) — AI-Powered Image Generation App
+ 
+> An AI-powered web app that transforms text prompts into stunning visuals. Users get 5 free credits on sign-up and can purchase more via Razorpay to keep generating.
+ 
+**✨ Highlights:**
+- 🤖 Prompt-based AI image generation
+- 🔑 Google OAuth + OTP email verification
+- 💳 Razorpay payment gateway for credit purchases
+- 📥 Multi-format downloads — JPG, PNG & PDF
+- 🎁 5 free credits on sign-up
+- 🔐 Secure encrypted user data storage
+![Tech](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tech](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tech](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Tech](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
+![Tech](https://img.shields.io/badge/Nodemailer-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tech](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
+ 
+---
+ 
+#### 💸 [ExpensEase](https://github.com/aakasshhh/ExpensEase) — Expense Tracker & Finance Manager
+ 
+> A full-featured personal finance tracker to log income & expenses, visualise spending habits, and gain insights into your financial health.
+ 
+**✨ Highlights:**
+- 📊 Interactive charts & graphs for data visualisation
+- ➕ Add, edit & delete income/expense entries
+- 👤 Secure multi-user support with private dashboards
+- 🔐 JWT authentication with encrypted passwords
+- 📤 Export financial data for further analysis
+- 📱 Fully responsive across all devices
+![Tech](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Tech](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tech](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Tech](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+ 
 ---
 
 ### 📊 GitHub Stats
